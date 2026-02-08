@@ -1,9 +1,9 @@
 [
-  { "label": "Torre Racing", "value": "torre_racing" },
   { "label": "Birdhouse Racing", "value": "birdhouse_racing" },
-  { "label": "Serpent Stangs Racing", "value": "serpent_stangs_racing" },
-  { "label": "McCumbee McAleer Racing", "value": "mccumbee_mcaleer_racing" },
   { "label": "Capaldi Racing", "value": "capaldi_racing" },
   { "label": "Leif Johnson Ford Racing", "value": "leif_johnson_ford_racing" },
-  { "label": "Nick Smither Racing", "value": "nick_smither_racing" }
+  { "label": "McCumbee McAleer Racing", "value": "mccumbee_mcaleer_racing" },
+  { "label": "Nick Smither Racing", "value": "nick_smither_racing" },
+  { "label": "Serpent Stangs Racing", "value": "serpent_stangs_racing" },
+  { "label": "Torre Racing", "value": "torre_racing" }
 ]
