@@ -25,5 +25,6 @@
   { "label": "Topp Racing", "value": "topp_racing" },
   { "label": "TPC Racing", "value": "tpc_racing" },
   { "label": "Vintage Racing Company", "value": "vintage_racing_company" },
-  { "label": "ZRB Motorsports", "value": "zrb_motorsports" }
+  { "label": "ZRB Motorsports", "value": "zrb_motorsports" },
+  { "label": "OTHER", "value": "OTHER" }
 ]
