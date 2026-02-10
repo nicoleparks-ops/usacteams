@@ -5,5 +5,7 @@
   { "label": "McCumbee McAleer Racing", "value": "mccumbee_mcaleer_racing" },
   { "label": "Nick Smither Racing", "value": "nick_smither_racing" },
   { "label": "Serpent Stangs Racing", "value": "serpent_stangs_racing" },
-  { "label": "Torre Racing", "value": "torre_racing" }
+  { "label": "Torre Racing", "value": "torre_racing" },
+  { "label": "TPC Racing", "value": "Tpc_racing" },
+  { "label": "OTHER", "value": "other" },
 ]
